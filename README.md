@@ -25,7 +25,7 @@ As are titles that are over-the-top and/or pretentious-sounding, 'Apextacy', 'Wr
 
 * **AI Generation vs. Human-Edited**: If songs are completely AI-generated, that's fine. If you edited them a fair amount, that's fine too.  This is a giant romp of fun, folks, not an academic study. 
 
-* **How to Submit**: Open an Issue, provide links or attachments there.  If you'd rather try to stay anonymous, you can do the Brother Lawrence trick of "I have heard of someone who made this..." 
+* **How to Submit**: Open an Issue or  Pull Request, provide links or attachments there.  If you'd rather try to stay anonymous, you can do the Brother Lawrence trick of "I have heard of someone who made this..." 
 
 * **Album Releases**: (Semi-)Official DataLoader album releases will be comprised of contributions of submitted materials, subject to arbitrary standards of quality, "coolness", etc.   All album titles will somehow hint toward DataLoader's tireless, mechanical nature. ;-) 
 
