@@ -1,4 +1,4 @@
-# DataLoader
+# <img src="https://media.ravenation.club/accounts/avatars/109/298/863/611/893/755/original/06e3c98a02fc3766.png" width="100"> DataLoader 
 ![banner img](https://f4.bcbits.com/img/0030577642_100.png)
 
 DataLoader's links: 
@@ -21,17 +21,20 @@ The fact that DataLoader was producing hot drops as far back as 2015 that sound 
 
 *  **Song titles**: ML puns in song titles are encouraged, especially repurposing words from ML or diffusion models 
 e.g. activation->"Act Evasion", regulator->"Reggae You Later", something about infilling->"Infill Traitor".
-As are titles that are over-the-top, 'Apextacy', 'Wrecktoplasm', 'Lord of the Dubstep', 'Suck on This':  DataLoader is a bit of a cocky bastard.
+As are titles that are over-the-top and/or pretentious-sounding, 'Apextacy', 'Wrecktoplasm', 'Lord of the Dubstep', 'Suck on This':  DataLoader is a bit of a cocky bastard.  Audio generated from silly prompts should be retitled according to these guidelines, e.g. "Gasping Past" came from a prompt about farts. 
 
 * **AI Generation vs. Human-Edited**: If songs are completely AI-generated, that's fine. If you edited them a fair amount, that's fine too.  This is a giant romp of fun, folks, not an academic study. 
 
 * **How to Submit**: Open an Issue, provide links or attachments there.  If you'd rather try to stay anonymous, you can do the Brother Lawrence trick of "I have heard of someone who made this..." 
 
-* **Time Frame**: (Semi-) Official DataLoader albums releases will be comprised of contributions of submitted materials, subject to arbitrary standards of quality, "coolness", etc.  
+* **Album Releases**: (Semi-) Official DataLoader albums releases will be comprised of contributions of submitted materials, subject to arbitrary standards of quality, "coolness", etc.   All album titles will somehow hint toward DataLoader's tireless, mechanical nature. ;-) 
 
-* **Standards**: "Does it slap?"  DataLoader, being a cocky bastard, does have a bit of a reputation to uphold, so don't just press "Generate" and accept whatever.  But if you're upset that your submission doesn't make it into an official release, then feel free to release it yourself, and just claim that it's a bootleg obtained from, say Japan. For example: 
+* **Audio Standards**: "Does it slap?"  DataLoader, being a cocky bastard, does have a bit of a reputation to uphold, so don't just press "Generate" and accept whatever.  But if you're upset that your submission doesn't make it into an official release, then feel free to release it yourself, and just claim that it's a bootleg obtained from, say Japan. For example: 
 
-(rare photo of Japanese DataLoader release -- the only existing photo of the man himself)
+(rare photo of Japanese DataLoader release -- the only existing photo of the man himself -- and the ONLY time he has ever appeared without a hoodie)
 
+![images/japan_cover.png](images/japan_cover.png)
 
+* **Artwork**: Generally on the themese of DJ gear, headphones, turntables, playing to massive stadium shows, and wearing hoodies. 
+* **Lore**: DataLoader has bounced around various parts of Eastern Europe since 2005, ending up in Prague, where he met his longtime collaborator and girlfiend "HyaSynth", [who is from Lapland](https://ravenation.club/@DataLoader/109403169343357091) (but not a member of Sami people).  Over the years, DataLoader has worked with various collaborators including Short Round and the duo X10.  The reason DataLoader's album from as far back as 2015 were delayed until November 2022 is stated to be an [ongoing litigation with record executives](https://ravenation.club/@DataLoader/109303361091045815).  Contributing to the Lore of DataLoader is a fun FanFiction activity. 
 
