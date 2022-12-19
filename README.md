@@ -15,7 +15,7 @@ The fact that DataLoader was producing hot drops as far back as 2015 that sound 
 
 * **Who can contribute**: Anyone can contribute to the myth of DataLoader -- music (primarily), graphics, fiction. 
 
-* **Editor**: @drscotthawley will serve as the "editor" (as with a book of submitted essays), and retain "editorial" control over "lore" and what constitutes "cannon" and what doesn't.
+* **Editor**: @drscotthawley will serve as the "editor" (as with a book of submitted essays), and retain "editorial" authority over "lore", e.g. what constitutes "cannon" and what doesn't.
 
 * **License**: For the purposes of avoiding dispute, all materials assume a licence of [CC-NC-4.0: Creative Commons - Non-Commerical](https://creativecommons.org/licenses/by-nc/4.0/).  No one owns these, no one monetizes them.  DataLoader is a gift to the world. 
 
