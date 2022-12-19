@@ -27,7 +27,7 @@ As are titles that are over-the-top and/or pretentious-sounding, 'Apextacy', 'Wr
 
 * **How to Submit**: Open an Issue, provide links or attachments there.  If you'd rather try to stay anonymous, you can do the Brother Lawrence trick of "I have heard of someone who made this..." 
 
-* **Album Releases**: (Semi-)Official DataLoader albums releases will be comprised of contributions of submitted materials, subject to arbitrary standards of quality, "coolness", etc.   All album titles will somehow hint toward DataLoader's tireless, mechanical nature. ;-) 
+* **Album Releases**: (Semi-)Official DataLoader album releases will be comprised of contributions of submitted materials, subject to arbitrary standards of quality, "coolness", etc.   All album titles will somehow hint toward DataLoader's tireless, mechanical nature. ;-) 
 
 * **No Repeating of Commerical Material**: We can't have anything that's repeating commercial audio. Period. 
 
