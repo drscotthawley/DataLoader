@@ -23,7 +23,7 @@ The fact that DataLoader was producing hot drops as far back as 2015 that sound 
 e.g. activation->"Act Evasion", regulator->"Reggae You Later", something about infilling->"Infill Traitor".
 As are titles that are over-the-top and/or pretentious-sounding, 'Apextacy', 'Wrecktoplasm', 'Lord of the Dubstep', 'Suck on This':  DataLoader is a bit of a cocky bastard.  Audio generated from silly prompts should be retitled according to these guidelines, e.g. "Gasping Past" came from a prompt about farts. 
 
-* **AI Generation vs. Human-Edited**: If songs are completely AI-generated, that's fine. If you edited them a fair amount, that's fine too.  This is a giant romp of fun, folks, not an academic study. 
+* **AI Generation vs. Human-Edited**: If songs are completely AI-generated, that's fine. If you edited them a fair amount, that's fine too.  Whatever makes it sound good.  This is a giant romp of fun, folks, not an academic study. 
 
 * **How to Submit**: Open an Issue or  Pull Request, provide links or attachments there.  If you'd rather try to stay anonymous, you can do the Brother Lawrence trick of "I have heard of someone who made this..." 
 
